@@ -69,16 +69,7 @@
       </a>
     </div>
   </div>
-  {% endif %} ======= {% if site.navbar-extra %} {% for file in site.navbar-extra %} {% include {{ file }} %} {% endfor
-  %} {% endif %} {% if site.avatar and page.show-avatar != false %}
-  <div class="avatar-container">
-    <div class="avatar-img-border">
-      <a href="{{ '' | absolute_url }}">
-        <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
-      </a>
-    </div>
-  </div>
-  {% endif %} >>>>>>> 27714d1a64ab85c1a3104ad401ed745effeed86a
+  {% endif %}
 </nav>
 
 {% include search.html %}
