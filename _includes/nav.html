@@ -60,8 +60,8 @@
     </ul>
   </div>
 
-  <<<<<<< HEAD {% if site.navbar-extra %} {% for file in site.navbar-extra %} {% include {{ file }} %} {% endfor %} {%
-  endif %} {% if site.avatar and page.show-avatar != false %}
+  {% if site.navbar-extra %} {% for file in site.navbar-extra %} {% include {{ file }} %} {% endfor %} {% endif %} {% if
+  site.avatar and page.show-avatar != false %}
   <div class="avatar-container">
     <div class="avatar-img-border">
       <a href="{{ '' | absolute_url }}">
