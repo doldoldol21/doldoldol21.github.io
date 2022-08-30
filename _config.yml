@@ -15,7 +15,7 @@ author: doldoldol21
 
 navbar-links:
     #   About Me: 'aboutme'
-    Portfolio: "portfolio"
+    # Portfolio: "portfolio"
     Tags: "tags"
 
     #Resources:
