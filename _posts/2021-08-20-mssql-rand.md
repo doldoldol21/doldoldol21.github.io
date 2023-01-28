@@ -3,7 +3,7 @@ layout: post
 title: MSSQL RAND 함수로 난수 생성하기
 subtitle: generating random numbers
 # cover-img: /assets/img/cover3.jpg
-thumbnail-img: ""
+thumbnail-img: ''
 comments: true
 tags: [MSSQL, Function]
 last-updated: 2021-08-20sql

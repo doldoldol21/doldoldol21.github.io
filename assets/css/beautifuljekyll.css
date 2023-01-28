@@ -864,24 +864,23 @@ pre {
   
 }
 
-.highlight > button {
+.highlight .copy {
   font-size: 1.1rem;
-  padding: 0.2rem 0.5rem;
   background: none;
   color: #fff;
   position: absolute;
-  right: 1.2rem;
-  top: 1rem;
+  right: 0.5rem;
+  top: 0.5rem;
   opacity: 0;
 }
 
-.highlight:hover > button {
-  opacity: 1;
+.highlight:hover .copy {
+  opacity: 0.8;
 }
 
-.highlight > button:active,
-.highlight > button:focus {
-  opacity: 1;
+.highlight .copy:active,
+.highlight .copy:focus {
+  opacity: 0.8;
 }
 
 
