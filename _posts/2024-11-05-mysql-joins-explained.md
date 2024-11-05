@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding MySQL Joins: A Beginner’s Guide
+title: Understanding MySQL Joins - A Beginner’s Guide
 subtitle: Mastering Inner, Left, Right, and Full Joins in MySQL
 thumbnail-img: ""
 comments: true
