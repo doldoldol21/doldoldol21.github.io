@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting Up Terraform: A Comprehensive Guide for Beginners
+title: Setting Up Terraform - A Comprehensive Guide for Beginners
 subtitle: Learn How to Set Up Your Environment to Get Started with Terraform
 thumbnail-img: ""
 comments: true

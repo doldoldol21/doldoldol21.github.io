@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker Networking Basics: Connecting Your Containers
+title: Docker Networking Basics - Connecting Your Containers
 subtitle: A Guide to Understanding Docker Networks and Their Types
 thumbnail-img: ""
 comments: true

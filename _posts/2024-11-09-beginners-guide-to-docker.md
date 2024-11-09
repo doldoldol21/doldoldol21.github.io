@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the World of Containers: A Beginner's Guide to Docker
+title: Navigating the World of Containers - A Beginner's Guide to Docker
 subtitle: Understanding Docker Containers and How They Transform Software Development
 thumbnail-img: ""
 comments: true

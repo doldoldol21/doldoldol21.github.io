@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraform Basics: Infrastructure as Code Made Simple
+title: Terraform Basics - Infrastructure as Code Made Simple
 subtitle: Learn How to Automate Infrastructure Deployment with Terraform
 thumbnail-img: ""
 comments: true
